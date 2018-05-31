@@ -1,7 +1,7 @@
-#Shorten-Filenames-for-CDFS
+# Shorten-Filenames-for-CDFS
 
-** QBASIC script which shortens long filenames so that they
-can fit on a CD/DVD. With name restoration functionality. **
+**QBASIC script which shortens long filenames so that they
+can fit on a CD/DVD. With name restoration functionality.**
 
 This utility takes a directory listing and produces two
 batch files, one which shortens long filenames so that they
@@ -18,13 +18,12 @@ that **what the window shows is the correct version, so just
 copy and paste from the window and make sure you paste into
 a plain text file.**
 
-Disclaimer: Use at own risk. This program was written in a
+**Disclaimer: Use at own risk. This program was written in a
 robust manner but author takes no responsibility for
-disasters.
+disasters.**
 
 ---
 
 QBASIC compilers can be found at this site:
 http://www.qb64.net/
-
 and at this site: http://www.qbasic.net/
