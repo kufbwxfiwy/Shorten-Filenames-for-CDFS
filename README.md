@@ -1,7 +1,7 @@
 # Shorten-Filenames-for-CDFS
 
 **QBASIC script which shortens long filenames so that they
-can fit on a CD/DVD. With name restoration functionality.**
+can fit on a CD/DVD, with name restoration functionality.**
 
 This utility takes a directory listing and produces two
 batch files, one which shortens long filenames so that they
